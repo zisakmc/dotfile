@@ -1,0 +1,4 @@
+2022/04/27-12:20:44.795 7a980 Reusing MANIFEST /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_app.element.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/27-12:20:44.795 7a980 Recovering log #6
+2022/04/27-12:20:44.797 7a980 Reusing old log /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_app.element.io_0.indexeddb.leveldb/000006.log 
+2022/04/27-12:20:44.797 7a980 Delete type=2 #5

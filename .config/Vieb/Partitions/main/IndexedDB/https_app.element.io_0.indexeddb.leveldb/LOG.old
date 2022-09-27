@@ -1,0 +1,17 @@
+2022/04/27-12:18:45.511 79511 Creating DB /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_app.element.io_0.indexeddb.leveldb since it was missing.
+2022/04/27-12:18:45.517 79511 Reusing MANIFEST /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_app.element.io_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/27-12:18:49.938 79511 Level-0 table #5: started
+2022/04/27-12:18:49.939 79511 Level-0 table #5: 3347 bytes OK
+2022/04/27-12:18:49.941 79511 Delete type=0 #3
+2022/04/27-12:18:49.942 79511 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/27-12:18:49.942 78c45 Level-0 table #7: started
+2022/04/27-12:18:49.943 78c45 Level-0 table #7: 498 bytes OK
+2022/04/27-12:18:49.944 78c45 Delete type=0 #4
+2022/04/27-12:18:49.945 78c45 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/27-12:18:49.945 78c45 Manual compaction at level-1 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 215 : 0
+2022/04/27-12:18:49.945 78c45 Compacting 1@1 + 1@2 files
+2022/04/27-12:18:49.946 78c45 Generated table #8@1: 59 keys, 1322 bytes
+2022/04/27-12:18:49.946 78c45 Compacted 1@1 + 1@2 files => 1322 bytes
+2022/04/27-12:18:49.947 78c45 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/27-12:18:49.948 78c45 Delete type=2 #7
+2022/04/27-12:18:49.948 78c45 Manual compaction at level-1 from '\x00\x04\x00\x00\x05' @ 215 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

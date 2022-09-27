@@ -1,0 +1,13 @@
+
+Section "InputClass"
+        Identifier "touchpad"
+        Driver "libinput"
+        MatchIsTouchpad "on"
+	option "Tapping" "on"
+	option "TappingButtonMap" "lrm"
+	option "NaturalScrolling" "on"
+	option "ScrollMethod" "edge"
+	option "ScrollMethod" "twofinger"
+
+EndSection
+

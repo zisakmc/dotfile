@@ -1,0 +1,5 @@
+2022/04/27-12:45:39.322 88c3f Creating DB /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/04/27-12:45:39.334 88c3f Reusing MANIFEST /home/blue/.config/Vieb/Partitions/main/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/27-12:49:19.004 88c3e Level-0 table #5: started
+2022/04/27-12:49:19.019 88c3e Level-0 table #5: 1056192 bytes OK
+2022/04/27-12:49:19.021 88c3e Delete type=0 #3

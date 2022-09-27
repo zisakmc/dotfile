@@ -1,0 +1,20 @@
+{
+    "https://zisakmc.netlify.app/": "https://zisakmc.netlify.app/icons/favicon-16x16.png",
+    "redirects": {
+        "https://zisakmc.netlify.app/blog": "https://zisakmc.netlify.app/blog/",
+        "https://zisakmc.netlify.app/about": "https://zisakmc.netlify.app/about/"
+    },
+    "https://zisakmc.netlify.app/blog/": "https://zisakmc.netlify.app/icons/favicon-16x16.png",
+    "https://matrix.to/#/#vieb:matrix.org": "https://matrix.to/favicon.ico",
+    "https://app.element.io/#/room%2F%23vieb%3Amatrix.org": "https://app.element.io/vector-icons/favicon.878a87c.ico",
+    "https://app.element.io/#/room/#vieb:matrix.org": "https://app.element.io/vector-icons/favicon.878a87c.ico",
+    "https://zisakmc.netlify.app/about/": "https://zisakmc.netlify.app/icons/favicon-16x16.png",
+    "https://zisakmc.netlify.app/blog/bday/": "https://zisakmc.netlify.app/icons/favicon-16x16.png",
+    "https://zisakmc.netlify.app/blog/thematrix/": "https://zisakmc.netlify.app/icons/favicon-16x16.png",
+    "https://duckduckgo.com/?kae=d&kav=1&ko=1&q=youtube&ia=web": "https://duckduckgo.com/favicon.ico",
+    "https://www.youtube.com/": "https://www.youtube.com/s/desktop/5ab5196f/img/favicon.ico",
+    "https://www.youtube.com/results?search_query=amv": "https://www.youtube.com/s/desktop/5ab5196f/img/favicon.ico",
+    "https://www.youtube.com/watch?v=0Sn1NJlTWqQ": "https://www.youtube.com/s/desktop/5ab5196f/img/favicon.ico",
+    "https://www.youtube.com/watch?v=vyMr_S3B6ss": "https://www.youtube.com/s/desktop/5ab5196f/img/favicon.ico",
+    "https://www.youtube.com/watch?v=agcNbKVDtQ0": "https://www.youtube.com/s/desktop/6b582218/img/favicon.ico"
+}
